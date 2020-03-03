@@ -2,7 +2,7 @@ SDV503 - LabsOne - journal
 
  today in sdv503 we learnt how to code simple calculations using JavaScript to obtain a conclusion. 
  Some of the obstacles I had to overcome was accidentally hard coding the numbers and outcomes using a console logged message 
- to display the full calculation, displaying the outcome on its own with no message saying the “sum =” and leaving spaces in my code
+ to display the full calculation, displaying the outcome on its own with no message saying the “sum =” and also leaving spaces in my code
  resulting in an error. 
 
  With help from Ali and classmates I was able to understand what I had done wrong and was able to correct my mistakes. 
