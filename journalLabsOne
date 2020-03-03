@@ -1,1 +1,18 @@
-This week in SVD503 we learnt how to calculate equasions using 
+SDV503 - LabsOne - journal
+
+ today in sdv503 we learnt how to code simple calculations using JavaScript to obtain a conclusion. 
+ Some of the obstacles I had to overcome was accidentally hard coding the numbers and outcomes using a console logged message 
+ to display the full calculation, displaying the outcome on its own with no message saying the “sum =” and leaving spaces in my code
+ resulting in an error. 
+
+ With help from Ali and classmates I was able to understand what I had done wrong and was able to correct my mistakes. 
+A fellow classmate Matt was having a few problems because he had joined the class late, so I helped him with his code. 
+This enabled me to reinforce my understanding with variables as I wrote multiple copies of the code to help him understand
+what we had been doing. 
+
+ 
+ Matt also show me some shortcuts that I could have used to make my coding easer, for example, instead of displaying
+ the variable as “numOne” I could have shown it as “n1” to save time typing. 
+
+ 
+I'm feeling a lot more confident with my ability to use git than I was last week but there is still room for improvement. 
